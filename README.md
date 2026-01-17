@@ -44,7 +44,6 @@ Choose: 1
 [2] - Depositing money into a bank card
 Choose: 1
 Enter amount: $250
-// deposit succeeds, Cash decreases by 250, CreditCard increases by 250
 
 -------------------------------------
 Name, John Doe
@@ -63,7 +62,6 @@ Choose: 2
 [2] - Withdraw money from bank card
 Choose: 1
 Enter amount: $100
-// withdrawal succeeds, Cash increases by 100, CreditCard decreases by 100
 
 -------------------------------------
 Name, John Doe
@@ -78,7 +76,6 @@ Total Transaction Number: 2
 [2] - Withdraw money from card
 [3] - Exit
 Choose: 3
-// Program exits
 ```
 
 Notes and limitations ⚠️
